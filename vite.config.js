@@ -5,5 +5,5 @@ import vue from '@vitejs/plugin-vue'
 // If using a custom domain or user/org page, set base to '/'
 export default defineConfig({
   plugins: [vue()],
-  base: '/startpage/',
+  base: '/',
 })
