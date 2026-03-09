@@ -46,7 +46,7 @@
       "color": "#6ac8f7",
       "links": [
         { "name": "GitHub",       "url": "https://github.com",          "icon": "🐙" },
-        { "name": "Reddit",       "url": "https://reddit.com",          "icon": "👾" },
+        { "name": "Reddit",       "url": "https://reddit.com",          "icon": "👾" }
       ]
     },
     {
@@ -57,7 +57,7 @@
         { "name": "Stack Overflow", "url": "https://stackoverflow.com",   "icon": "📚" },
         { "name": "Claude",         "url": "https://claude.ai",           "icon": "🤖" },
         { "name": "ChatGPT",        "url": "https://chat.openai.com",     "icon": "✦"  },
-        { "name": "Vercel",         "url": "https://vercel.com",          "icon": "▲"  },
+        { "name": "Vercel",         "url": "https://vercel.com",          "icon": "▲"  }
       ]
     },
     {
