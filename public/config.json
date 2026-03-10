@@ -1,7 +1,7 @@
 {
   "profile": {
-    "name": "your name",
-    "handle": "@yourhandle",
+    "name": "TheFlippantFox",
+    "handle": "@theflippantfox",
     "status": "online & vibing",
     "avatar": "",
     "avatarEmoji": "🧑‍💻",
@@ -18,7 +18,7 @@
   },
 
   "search": {
-    "engine": "google",
+    "engine": "duckduckgo",
     "engines": {
       "google":     "https://www.google.com/search?q=",
       "duckduckgo": "https://duckduckgo.com/?q=",
@@ -48,10 +48,8 @@
       "color": "#6ac8f7",
       "links": [
         { "name": "GitHub",   "url": "https://github.com",      "icon": "🐙" },
-        { "name": "Twitter",  "url": "https://twitter.com",     "icon": "𝕏"  },
         { "name": "Reddit",   "url": "https://reddit.com",      "icon": "👾" },
         { "name": "Discord",  "url": "https://discord.com/app", "icon": "💬" },
-        { "name": "LinkedIn", "url": "https://linkedin.com",    "icon": "💼" }
       ]
     },
     {
@@ -62,7 +60,6 @@
         { "name": "Stack Overflow", "url": "https://stackoverflow.com", "icon": "📚" },
         { "name": "Claude",         "url": "https://claude.ai",         "icon": "🤖" },
         { "name": "Vercel",         "url": "https://vercel.com",        "icon": "▲"  },
-        { "name": "Notion",         "url": "https://notion.so",         "icon": "📒" }
       ]
     },
     {
