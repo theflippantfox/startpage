@@ -1,12 +1,14 @@
 {
   "profile": {
-    "name": "TheFlippantFox",
-    "handle": "@theflippantfox",
+    "name": "your name",
+    "handle": "@yourhandle",
     "status": "online & vibing",
     "avatar": "",
     "avatarEmoji": "🧑‍💻",
+    "verticalText": "CHILL",
     "quote": "The best way to predict the future is to invent it.",
     "quoteAuthor": "Alan Kay",
+    "startDate": "2024-01-01",
     "stats": [
       { "value": "42",   "label": "repos"   },
       { "value": "∞",    "label": "coffee"  },
@@ -16,14 +18,14 @@
   },
 
   "search": {
-    "engine": "duckduckgo",
+    "engine": "google",
     "engines": {
       "google":     "https://www.google.com/search?q=",
       "duckduckgo": "https://duckduckgo.com/?q=",
       "brave":      "https://search.brave.com/search?q=",
       "bing":       "https://bing.com/search?q="
     },
-    "placeholder": "search or jump to a url..."
+    "placeholder": "search or type a url..."
   },
 
   "theme": {
@@ -33,10 +35,10 @@
     "border":      "#2a2a35",
     "text":        "#d4d4dc",
     "textMuted":   "#55556a",
-    "accent":      "#c8f060",
+    "accent":      "#a0d8f0",
     "fontDisplay": "Syne",
-    "fontMono":    "JetBrains Mono",
-    "googleFonts": "https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
+    "fontMono":    "JetBrainsMono",
+    "googleFonts": "https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrainsMono:wght@400;500&display=swap"
   },
 
   "sections": [
@@ -45,50 +47,52 @@
       "label": "Social",
       "color": "#6ac8f7",
       "links": [
-        { "name": "GitHub",       "url": "https://github.com",          "icon": "🐙" },
-        { "name": "Reddit",       "url": "https://reddit.com",          "icon": "👾" }
+        { "name": "GitHub",   "url": "https://github.com",      "icon": "🐙" },
+        { "name": "Twitter",  "url": "https://twitter.com",     "icon": "𝕏"  },
+        { "name": "Reddit",   "url": "https://reddit.com",      "icon": "👾" },
+        { "name": "Discord",  "url": "https://discord.com/app", "icon": "💬" },
+        { "name": "LinkedIn", "url": "https://linkedin.com",    "icon": "💼" }
       ]
     },
     {
       "id": "dev",
       "label": "Dev & Work",
-      "color": "#b48ef7",
+      "color": "#8060d0",
       "links": [
-        { "name": "Stack Overflow", "url": "https://stackoverflow.com",   "icon": "📚" },
-        { "name": "Claude",         "url": "https://claude.ai",           "icon": "🤖" },
-        { "name": "ChatGPT",        "url": "https://chat.openai.com",     "icon": "✦"  },
-        { "name": "Vercel",         "url": "https://vercel.com",          "icon": "▲"  }
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com", "icon": "📚" },
+        { "name": "Claude",         "url": "https://claude.ai",         "icon": "🤖" },
+        { "name": "Vercel",         "url": "https://vercel.com",        "icon": "▲"  },
+        { "name": "Notion",         "url": "https://notion.so",         "icon": "📒" }
       ]
     },
     {
       "id": "video",
       "label": "Video",
-      "color": "#f7a26a",
+      "color": "#d08040",
       "links": [
-        { "name": "YouTube",      "url": "https://youtube.com",          "icon": "▶"  },
-        { "name": "Twitch",       "url": "https://twitch.tv",            "icon": "🎮" },
-        { "name": "Spotify",      "url": "https://open.spotify.com",     "icon": "🎵" }
+        { "name": "YouTube", "url": "https://youtube.com",      "icon": "▶"  },
+        { "name": "Twitch",  "url": "https://twitch.tv",        "icon": "🎮" },
+        { "name": "Spotify", "url": "https://open.spotify.com", "icon": "🎵" }
       ]
     },
     {
       "id": "games",
       "label": "Games",
-      "color": "#6af7b8",
+      "color": "#60d0a0",
       "links": [
-        { "name": "Chess",        "url": "https://chess.com",            "icon": "♟"  },
-        { "name": "MonkeyType",   "url": "https://monkeytype.com",       "icon": "⌨"  },
-        { "name": "Steam",        "url": "https://store.steampowered.com","icon": "🎯" }
+        { "name": "Chess",      "url": "https://chess.com",             "icon": "♟"  },
+        { "name": "MonkeyType", "url": "https://monkeytype.com",        "icon": "⌨"  },
+        { "name": "Steam",      "url": "https://store.steampowered.com","icon": "🎯" }
       ]
     },
     {
       "id": "tools",
       "label": "Tools",
-      "color": "#f76a8a",
+      "color": "#d06080",
       "links": [
-        { "name": "Gmail",        "url": "https://mail.google.com",      "icon": "📬" },
-        { "name": "Calendar",     "url": "https://calendar.google.com",  "icon": "📅" },
-        { "name": "Drive",        "url": "https://drive.google.com",     "icon": "☁"  },
-        { "name": "Excalidraw",   "url": "https://excalidraw.com",       "icon": "✏"  }
+        { "name": "Gmail",    "url": "https://mail.google.com",     "icon": "📬" },
+        { "name": "Calendar", "url": "https://calendar.google.com", "icon": "📅" },
+        { "name": "Drive",    "url": "https://drive.google.com",    "icon": "☁"  }
       ]
     }
   ]
