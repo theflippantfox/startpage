@@ -89,7 +89,8 @@
       "links": [
         { "name": "Gmail",    "url": "https://mail.google.com",     "icon": "📬" },
         { "name": "Calendar", "url": "https://calendar.google.com", "icon": "📅" },
-        { "name": "Drive",    "url": "https://drive.google.com",    "icon": "☁"  }
+        { "name": "Drive",    "url": "https://drive.google.com",    "icon": "☁"  },
+        {"name": "Digital Garden", "url": "https://digital-garden-iih.pages.dev/", "icon": ""}
       ]
     }
   ]
