@@ -1,16 +1,16 @@
 {
   "profile": {
-    "name": "your name",
-    "handle": "@yourhandle",
+    "name": "TheFlippantFox",
+    "handle": "@theflippantfox",
     "status": "online & vibing",
     "avatar": "",
     "avatarEmoji": "🧑‍💻",
     "verticalText": "CHILL",
     "quote": "The best way to predict the future is to invent it.",
     "quoteAuthor": "Alan Kay",
-    "startDate": "2024-01-01",
+    "startDate": "2026-01-01",
     "stats": [
-      { "value": "42",   "label": "repos"   },
+      { "value": "15",   "label": "repos"   },
       { "value": "∞",    "label": "coffee"  },
       { "value": "7/10", "label": "vibes"   }
     ],
@@ -47,11 +47,8 @@
       "label": "Social",
       "color": "#6ac8f7",
       "links": [
-        { "name": "GitHub",   "url": "https://github.com",      "icon": "🐙" },
-        { "name": "Twitter",  "url": "https://twitter.com",     "icon": "𝕏"  },
-        { "name": "Reddit",   "url": "https://reddit.com",      "icon": "👾" },
+        { "name": "GitHub",   "url": "https://github.com/theflippantfox",      "icon": "🐙" },
         { "name": "Discord",  "url": "https://discord.com/app", "icon": "💬" },
-        { "name": "LinkedIn", "url": "https://linkedin.com",    "icon": "💼" }
       ]
     },
     {
@@ -62,7 +59,6 @@
         { "name": "Stack Overflow", "url": "https://stackoverflow.com", "icon": "📚" },
         { "name": "Claude",         "url": "https://claude.ai",         "icon": "🤖" },
         { "name": "Vercel",         "url": "https://vercel.com",        "icon": "▲"  },
-        { "name": "Notion",         "url": "https://notion.so",         "icon": "📒" }
       ]
     },
     {
